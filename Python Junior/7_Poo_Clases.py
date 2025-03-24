@@ -1,5 +1,3 @@
-
-
 class Persona:
     # Constructor de la clase (se ejecuta al crear un objeto)
     def __init__(self, nombre, edad):
