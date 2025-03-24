@@ -30,5 +30,5 @@ lista.agregar_al_final(1)
 lista.agregar_al_final(2)
 lista.agregar_al_final(3)
 lista.mostrar_lista()  # Imprime: 1 -> 2 -> 3 -> None
-print("Hola", end=" este es un espacio ", ' gg gg ')
+print("Hola", end=" este es un espacio ")
 print("Mundo")
