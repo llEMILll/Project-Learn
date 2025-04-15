@@ -39,10 +39,19 @@ datos_mixtos = ["Juan", 30, True]
          
          # Funciones integradas len(), max(), min() 
 ##Tuplas
-coordenadas = (10, 20)
+coordenadas = 10, 20,
 colores = ("rojo", "verde", "azul")
+# valid tuple
+t1 = ('a',)
 
+# valid tuple
+t2 = 'a',
+
+# NOT a tuple
+t3 = ('a')
+   
 ##Diccionarios
+dictionary = {"key": "value"}
 persona = {
     "nombre": "Ana",
     "edad": 25,
@@ -53,6 +62,12 @@ producto = {
     "precio": 1200,
     "stock": 10
 }
+
+    # Metodos de los diccionarios
+    #.keys()devuelve sólo las claves de un diccionario.
+    #.values()devuelve sólo los valores.
+    #.items()devuelve una lista de los pares clave-valor como tuplas.
+
 
 ##Conjuntos
 numeros = {1, 2, 3, 4, 5}
