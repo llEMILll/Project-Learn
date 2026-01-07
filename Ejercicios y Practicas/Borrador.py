@@ -1,4 +1,4 @@
-###Pin de calve de banco con bucle WHILE
+###Pin de clave de banco con bucle WHILE
 """
 x=0
 clave=int(input('INGRESE SU CLAVE: '))
